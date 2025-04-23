@@ -1,4 +1,4 @@
-# Robotic Arm Project: Niryo Ned2 with ROS Melodic on WSL
+# Robotic Arm Project: Niryo Ned2 with ROS Melodic
 
 This project demonstrates the setup and usage of the **Niryo Ned2 robotic arm** using **ROS Melodic** on **Ubuntu 18.04 via WSL (Windows Subsystem for Linux)**. It includes both simulation using Gazebo and real hardware control using Blockly for motion planning and parameterized task execution.
 
