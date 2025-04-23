@@ -54,8 +54,7 @@ This project demonstrates the setup and usage of the **Niryo Ned2 robotic arm** 
 ## 👤 Author
 
 **Sandeep Elayath**  
-**Nashita Amaan
-**
+**Nashita Amaan**
 ---
 
 ## 📜 License
